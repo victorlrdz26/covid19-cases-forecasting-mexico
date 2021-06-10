@@ -1,0 +1,2 @@
+# covid19-cases-forecasting-mexico
+This research work attempts to predict new COVID-19 cases in Monterrey, Mexico. The main idea is to identify total lockdown days using the Mobility Data from Google and use COVID-19 statistics from Monterrey, state located in the north of Mexico, compare them against normal days and obtain a forecast of confirmed cases.We will produce a benchmark to identify model performs better and test if mobility data help the model to obtain better results.
